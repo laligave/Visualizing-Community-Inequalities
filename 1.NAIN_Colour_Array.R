@@ -1,4 +1,4 @@
-# This code shows how to generate colour-code maps displaying the results of Depthmap models (8 cuts) 
+# This code shows how to generate colour-code maps displaying the NAIN results of Depthmap models
 
 # Open R and install the libraries by typing what follows after #> in the Console:
 #> install.packages('plyr')

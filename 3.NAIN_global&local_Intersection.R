@@ -1,7 +1,7 @@
 # This code shows how to generate the following figures:
 # 1) Segments of the road network that have the highest NAIN values (Q80) for local and global scales
 # 2) Intersection between the segments of the road network that have the higuest NAIN values (Q80) in both local and global scales
-# 3) Raster grid of the area of study cointaining data of total lenght of the overlapping segments in different Depthmap scales 
+# 3) Raster grid of the area of study, where each cell displays the total lenght of the overlapping segments in both local and global scales 
   #  Choropleth array based on vulnerability quantile ranges for specific local administrative subdivisions in the city
 
 # Open R and install the libraries by typing what follows after #> in the Console:
